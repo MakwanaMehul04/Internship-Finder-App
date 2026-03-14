@@ -21,13 +21,13 @@ An Android app that helps users find internships easily.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](screenshots/loginscreen.png)
+![Home](screenshots/login screen.png)
 
 ### Details Screen
-![Details](screenshots/homescreen.png)
+![Details](screenshots/home screen.png)
 
 ### Apply Screen
-![Apply](screenshots/detailsscreen.png)
+![Apply](screenshots/details screen.png)
 
 ## 📡 API Used
 
