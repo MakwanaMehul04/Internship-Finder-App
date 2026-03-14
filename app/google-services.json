@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651003546126",
+    "project_id": "internshipfinder-e1bfe",
+    "storage_bucket": "internshipfinder-e1bfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651003546126:android:2e513e78df1fe5ff86ca5f",
+        "android_client_info": {
+          "package_name": "com.example.internshipfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVsF4FC-2O5OcrjrXwE98TWg0Uy-Oo7cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
